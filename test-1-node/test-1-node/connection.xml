@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<connections xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/connections_file.xsd">
+
+    <connection from="572700451" to="-572700451" fromLane="1" toLane="1"/>
+    <connection from="572700452" to="-572700452" fromLane="2" toLane="2"/>
+    <connection from="572700453" to="-572700453" fromLane="1" toLane="1"/>
+
+    <connection from="572700400" to="572700453" fromLane="0" toLane="0" tl="572700402" linkIndex="0"/>
+    <connection from="572700400" to="572700452" fromLane="0" toLane="1" tl="572700402" linkIndex="1"/>
+    <connection from="572700400" to="572700452" fromLane="1" toLane="2" tl="572700402" linkIndex="2"/>
+    <connection from="572700400" to="572700451" fromLane="1" toLane="1" tl="572700402" linkIndex="3"/>
+    <connection from="572700400" to="-572700400" fromLane="1" toLane="1" tl="572700402" linkIndex="4"/>
+    <connection from="-572700451" to="-572700400" fromLane="0" toLane="0" tl="572700402" linkIndex="5"/>
+    <connection from="-572700451" to="572700453" fromLane="0" toLane="0" tl="572700402" linkIndex="6"/>
+    <connection from="-572700451" to="572700452" fromLane="1" toLane="2" tl="572700402" linkIndex="7"/>
+    <connection from="-572700452" to="572700451" fromLane="0" toLane="0" tl="572700402" linkIndex="8"/>
+    <connection from="-572700452" to="-572700400" fromLane="0" toLane="0" tl="572700402" linkIndex="9"/>
+    <connection from="-572700452" to="-572700400" fromLane="1" toLane="1" tl="572700402" linkIndex="10"/>
+    <connection from="-572700452" to="572700453" fromLane="2" toLane="1" tl="572700402" linkIndex="11"/>
+    <connection from="-572700452" to="572700452" fromLane="2" toLane="2" tl="572700402" linkIndex="12"/>
+    <connection from="-572700453" to="572700452" fromLane="0" toLane="0" tl="572700402" linkIndex="13"/>
+    <connection from="-572700453" to="572700451" fromLane="0" toLane="0" tl="572700402" linkIndex="14"/>
+    <connection from="-572700453" to="572700451" fromLane="1" toLane="1" tl="572700402" linkIndex="15"/>
+    <connection from="-572700453" to="-572700400" fromLane="1" toLane="1" tl="572700402" linkIndex="16"/>
+    <connection from="-572700453" to="572700453" fromLane="1" toLane="1" tl="572700402" linkIndex="17"/>
+
+</connections>

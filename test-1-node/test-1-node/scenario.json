@@ -1,0 +1,26 @@
+{
+  "id": "test-1-node",
+  "time": {
+    "begin": "0",
+    "end": "50"
+  },
+  "input": {
+    "fileType" : "SALT",
+    "dataDir": "data/test-1-node/",
+    "node": "node.xml",
+    "link": "edge.xml",
+    "connection": "connection.xml",
+    "route" : "route.xml",
+    "trafficLightSystem": "tss.xml"
+  },
+  "parameter":{
+    "minCellLength": "30.0",
+    "vehLength": "7.0"
+  },
+  "output": {
+    "fileDir": "output/",
+    "save": "1",
+    "period": "10",
+    "level": "cell"
+  }
+}

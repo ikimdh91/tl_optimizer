@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<nodes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/nodes_file.xsd">
+    <node id="572700359" x="127.14168" y="37.542255" z="0.0" type="traffic_light" radius="1.5" keepClear="true" dong_cd="1125074"/>
+    <node id="572700402" x="127.14119" y="37.540962" z="0.0" type="traffic_light" tl="572700402" radius="1.5" keepClear="true" dong_cd="1125074"/>
+    <node id="572700432" x="127.14197" y="37.540913" z="0.0" type="priority" radius="1.5" keepClear="true" dong_cd="1125074"/>
+    <node id="572700433" x="127.1407" y="37.53966" z="0.0" type="priority" radius="1.5" keepClear="true" dong_cd="1125074"/>
+    <node id="572701726" x="127.14043" y="37.541" z="0.0" type="priority" radius="1.5" keepClear="true" dong_cd="1125074"/>
+</nodes>

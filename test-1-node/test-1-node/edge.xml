@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<edges xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/edges_file.xsd">
+    <edge id="-572700400" from="572700402" to="572700359" priority="0" numLanes="2" speed="60.0" shape="127.14119,37.540962 127.141678,37.542255" dong_cd="1125074" edge_len="150"/>
+    <edge id="-572700451" from="572700432" to="572700402" priority="0" numLanes="2" speed="60.0" shape="127.141968,37.540913 127.14119,37.540962" dong_cd="1125074" edge_len="69"/>
+    <edge id="-572700452" from="572700433" to="572700402" priority="0" numLanes="3" speed="60.0" shape="127.140701,37.539661 127.14119,37.540962" dong_cd="1125074" edge_len="150"/>
+    <edge id="-572700453" from="572701726" to="572700402" priority="0" numLanes="2" speed="60.0" shape="127.140427,37.541 127.14119,37.540962" dong_cd="1125074" edge_len="66"/>
+    <edge id="572700400" from="572700359" to="572700402" priority="0" numLanes="2" speed="60.0" shape="127.141678,37.542255 127.14119,37.540962" dong_cd="1125074" edge_len="150"/>
+    <edge id="572700451" from="572700402" to="572700432" priority="0" numLanes="2" speed="60.0" shape="127.14119,37.540962 127.141968,37.540913" dong_cd="1125074" edge_len="69"/>
+    <edge id="572700452" from="572700402" to="572700433" priority="0" numLanes="3" speed="60.0" shape="127.14119,37.540962 127.140701,37.539661" dong_cd="1125074" edge_len="150"/>
+    <edge id="572700453" from="572700402" to="572701726" priority="0" numLanes="2" speed="60.0" shape="127.14119,37.540962 127.140427,37.541" dong_cd="1125074" edge_len="66"/>
+</edges>
